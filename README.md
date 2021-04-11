@@ -1,4 +1,5 @@
 ### Hi there 👋
+함께하는 즐거움, 그리고 성취감을 삶의 가치여깁니다 😄
 
 <!--
 **basepage90/basepage90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
