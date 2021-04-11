@@ -1,4 +1,4 @@
-함께하는 즐거움, 그리고 성취감을 가장 큰 가치로 여깁니다. 😄
+함께하는 즐거움, 그리고 성취감을 가장 큰 가치로 여깁니다 😄
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=basepage90)](https://github.com/basepage90)
 
