@@ -2,7 +2,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=basepage90)](https://github.com/basepage90)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=basepage90&hide=contribs,prs
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=basepage90&hide=contribs,prs
 
 <!--
 **basepage90/basepage90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
