@@ -1,19 +1,20 @@
 함께하는 즐거움, 그리고 성취감을 가장 큰 가치로 여깁니다 😄
 
-- Backend
-  - JAVA, GO, C, NODE.JS
-    - Srping, SpringBoot, Gin
-  - Oracle, Mysql, MariaDB, Tibero
-    - Toad, Orange, SQL Developer, WorkBench, phpMyAdmin
-  - NginX, Tomcat
-  - Ubuntu, CentOS, Windows Server 
-  - Gradle, Maven, Npm
-  - Git, SVN
-  - VSCode, Eclipse
+[Backend]
+- JAVA, GO, C, NODE.JS
+  - Srping, SpringBoot, Gin
+- Oracle, Mysql, MariaDB, Tibero
+  - Toad, Orange, SQL Developer, WorkBench, phpMyAdmin
+- NginX, Tomcat
+- Ubuntu, CentOS, Windows Server 
+- Gradle, Maven, Npm
+- Docker, Jenkins
+- Git, SVN
+- VSCode, Eclipse
 
-- Frontend
-  - Lnag      : HTML, JavaScript, CSS, Jquery
-  - Framework : React, BootStrap
+[Frontend]
+- Lnag      : HTML, JavaScript, CSS, Jquery
+- Framework : React, BootStrap
 
 
 
