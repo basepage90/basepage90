@@ -1,14 +1,14 @@
 함께하는 즐거움, 그리고 성취감을 가장 큰 가치로 여깁니다 😄
 
 - Backend
-  - Lang      : JAVA, GO, C, NODE.JS
-    - Framework : Srping, SpringBoot, Gin
-  - DataBase  : Oracle, Mysql, MariaDB, Tibero
-    - DB Tool   : Toad, Orange, SQL Developer, WorkBench, phpMyAdmin
-  - Server    : NginX, Tomcat
-  - OS        : Ubuntu, CentOS, Windows Server 
-  - Build     : Gradle, Maven, Npm
-  - Version   : Git, SVN
+  - JAVA, GO, C, NODE.JS
+    - Srping, SpringBoot, Gin
+  - Oracle, Mysql, MariaDB, Tibero
+    - Toad, Orange, SQL Developer, WorkBench, phpMyAdmin
+  - NginX, Tomcat
+  - Ubuntu, CentOS, Windows Server 
+  - Gradle, Maven, Npm
+  - Git, SVN
   - VSCode, Eclipse
 
 - Frontend
