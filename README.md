@@ -1,6 +1,5 @@
 함께하는 즐거움, 그리고 성취감을 가장 큰 가치로 여깁니다 😄
 
-[Backend]
 - JAVA, GO, C, Node.js
   - Srping, SpringBoot, Gin
 - Oracle, Mysql, MariaDB, Tibero
@@ -13,7 +12,6 @@
 - Git, SVN
 - VSCode, Eclipse
 
-[Frontend]
 - HTML, JavaScript, CSS
   - React, BootStrap, Jquery
 <br>
