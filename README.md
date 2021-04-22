@@ -5,16 +5,17 @@
   - Srping, SpringBoot, Gin
 - Oracle, Mysql, MariaDB, Tibero
   - Toad, Orange, SQL Developer, WorkBench, phpMyAdmin
-- NginX, Tomcat
 - Ubuntu, CentOS, Windows Server 
+  - AWS EC2, Naver Cloud 
 - Gradle, Maven, Npm
+- NginX, Tomcat
 - Docker, Jenkins
 - Git, SVN
 - VSCode, Eclipse
 
 [Frontend]
-- Lnag      : HTML, JavaScript, CSS, Jquery
-- Framework : React, BootStrap
+- HTML, JavaScript, CSS
+  - React, BootStrap, Jquery
 <br>
 
 
