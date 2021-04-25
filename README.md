@@ -3,15 +3,10 @@
 [backend]
 - JAVA, GO, C, Node.js
   - Srping, SpringBoot, Gin
-- Oracle, Mysql, MariaDB, Tibero
-  - Toad, Orange, SQL Developer, WorkBench, phpMyAdmin
-- Ubuntu, CentOS, Windows Server 
-  - AWS EC2, Naver Cloud 
-- Gradle, Maven, Npm
-- NginX, Tomcat
+- Oracle, Mysql, MariaDB  
+- AWS, Naver Cloud 
 - Docker, Jenkins
 - Git, SVN
-- VSCode, Eclipse
 
 [frontend]
 - HTML, JavaScript, CSS
