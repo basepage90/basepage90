@@ -5,7 +5,6 @@
   - Srping, SpringBoot, Gin
 - Oracle, Mysql, MariaDB  
 - AWS, Naver Cloud 
-- Docker, Jenkins
 - Git, SVN
 
 [frontend]
