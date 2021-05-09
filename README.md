@@ -9,7 +9,7 @@
 
 [frontend]
 - HTML, JavaScript, CSS
-  - React, BootStrap, Jquery
+  - React, Redux, Material-UI, BootStrap, Jquery
 <br>
 
 
