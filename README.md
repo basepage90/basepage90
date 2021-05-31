@@ -3,13 +3,15 @@
 [backend]
 - JAVA, GO, C, Node.js
   - Srping, SpringBoot, Gin
-- Oracle, Mysql, MariaDB  
+- Oracle, Mysql, MariaDB, MongoDB
+- RESTful, GraphQL
 - AWS, Naver Cloud 
 - Git, SVN
 
 [frontend]
 - HTML, JavaScript, CSS
-  - React, Redux, Material-UI, BootStrap, Jquery
+  - React, Redux, GraphQL
+  - Material-UI, BootStrap, Jquery
 <br>
 
 
