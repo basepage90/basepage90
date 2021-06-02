@@ -10,10 +10,9 @@
 
 [frontend]
 - HTML, JavaScript, CSS
-  - React, Redux, GraphQL
-  - Material-UI, BootStrap, Jquery
+  - React, Redux, GraphQL, jsp
+  - Material-UI, BootStrap, Jquery, dhtmlx
 <br>
-
 
 
 
