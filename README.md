@@ -1,7 +1,7 @@
 함께하는 즐거움, 그리고 성취감을 가장 큰 가치로 여깁니다 😄
 
 [backend]
-- JAVA, GO, C, Node.js
+- JAVA, GO, 
   - Srping, SpringBoot, Gin
 - Oracle, Mysql, MariaDB, MongoDB
 - RESTful, GraphQL
