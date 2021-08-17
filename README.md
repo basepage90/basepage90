@@ -4,7 +4,7 @@
 - JAVA, GO
   - Srping, SpringBoot, Gin
 - Oracle, Mysql, MariaDB, Tibero, MongoDB
-- RESTful, GraphQL
+- REST API, GraphQL
 - AWS, Naver Cloud 
 - Git, SVN
 
