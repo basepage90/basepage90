@@ -6,7 +6,7 @@
 - Oracle, Mysql, MariaDB, Tibero, MongoDB
 - REST API, GraphQL
 - AWS, Naver Cloud 
-- Git, SVN
+- Git, SVN, Docker, NginX
 
 [frontend]
 - HTML, JavaScript, CSS
