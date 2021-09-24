@@ -10,8 +10,8 @@
 - Git, SVN, Jenkins, Docker, NginX
 
 [frontend]
-- HTML, JavaScript, CSS
-  - React, Redux, GraphQL, JSP
+- HTML, JavaScript,TypeScript, CSS
+  - React, GraphQL, JSP
   - Material-UI, BootStrap, Jquery, dhtmlx
 <br>
 
