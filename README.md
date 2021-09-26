@@ -5,7 +5,7 @@
 [backend]
 - JAVA, GO
   - Srping, SpringBoot, Gin
-- Oracle, Mysql, MariaDB, Tibero, MongoDB
+- Oracle, Mysql(GORM), MariaDB, Tibero, MongoDB
 - REST API, GraphQL
 - Git, SVN, Jenkins, Docker, NginX
 
@@ -15,6 +15,12 @@
   - Material-UI, BootStrap, Jquery, dhtmlx
 <br>
 
+- 🌱 I’m currently learning ...
+  - K8s
+  - JPA, Hibernate, spring security, spring batch
+  - redis, ElasticSearch
+  - Kafka
+  - gRPC
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=basepage90)](https://github.com/basepage90)
