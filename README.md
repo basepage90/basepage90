@@ -10,15 +10,15 @@
 - Git, SVN, Jenkins, Docker, NginX
 
 [frontend]
-- HTML, JavaScript,TypeScript, CSS
+- HTML, JavaScript, TypeScript, CSS
   - React, GraphQL, JSP
   - Material-UI, BootStrap, Jquery, dhtmlx
 <br>
 
 - 🌱 I’m currently learning ...
   - K8s
-  - JPA, Hibernate, spring security, spring batch
-  - redis, ElasticSearch
+  - JPA, Hibernate, Spring-security, Spring-batch
+  - Redis, ElasticSearch
   - Kafka
   - gRPC
 
