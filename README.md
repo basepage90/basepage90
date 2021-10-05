@@ -15,7 +15,7 @@
   - Material-UI, BootStrap, Jquery, dhtmlx
 <br>
 
-- 🌱 I’m currently learning ...
+- 🌱 I’m interested in ...
   - K8s
   - JPA, Hibernate, Spring-security, Spring-batch
   - Redis, ElasticSearch
