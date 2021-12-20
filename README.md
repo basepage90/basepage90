@@ -5,7 +5,7 @@
 [backend]
 - JAVA, GO
   - Srping, SpringBoot, Gin
-- Oracle, Mysql(GORM), MariaDB, Tibero, MongoDB
+- Oracle, Mysql, MariaDB, Tibero, MongoDB
 - REST API, GraphQL
 - Git, SVN, Jenkins, Docker, NginX
 
