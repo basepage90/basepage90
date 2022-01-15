@@ -5,6 +5,7 @@
 [backend]
 - JAVA, GO
   - Srping, SpringBoot, Gin
+  - JPA
 - Oracle, Mysql, MariaDB, Tibero, MongoDB
 - REST API, GraphQL
 - Git, SVN, Jenkins, Docker, NginX
@@ -17,7 +18,7 @@
 
 - 🌱 I’m interested in ...
   - K8s
-  - JPA, Hibernate, Spring-security, Spring-batch
+  - Spring-security, Spring-batch
   - Redis, ElasticSearch
   - Kafka
   - gRPC
