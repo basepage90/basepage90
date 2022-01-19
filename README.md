@@ -18,8 +18,7 @@
 
 - 🌱 I’m interested in ...
   - K8s
-  - Spring-security, Spring-batch
-  - Redis, ElasticSearch
+  - Redis, ElasticSearch, Alogoria
   - Kafka
   - gRPC
 
