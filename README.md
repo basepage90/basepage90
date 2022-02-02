@@ -5,8 +5,8 @@
 [backend]
 - JAVA, GO
   - Srping, SpringBoot, Gin
-  - JPA
-- Oracle, Mysql, MariaDB, Tibero, MongoDB
+  - JPA, Mybatis
+- Oracle, Mysql, MariaDB, Tibero, MongoDB, redis
 - REST API, GraphQL
 - Git, SVN, Jenkins, Docker, NginX
 
@@ -18,9 +18,10 @@
 
 - 🌱 I’m interested in ...
   - K8s
-  - Redis, ElasticSearch, Alogoria
+  - ElasticSearch, Alogoria
   - Kafka
   - gRPC
+  - electron
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=basepage90)](https://github.com/basepage90)
