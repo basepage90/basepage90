@@ -6,7 +6,7 @@
 - JAVA, GO
   - Srping, SpringBoot, Gin
   - JPA, Mybatis
-- Oracle, Mysql, MariaDB, Tibero, MongoDB, redis
+- Oracle, Mysql, MariaDB, MSSQL, Tibero, MongoDB, redis
 - REST API, GraphQL
 - Git, SVN, Jenkins, Docker, NginX
 
