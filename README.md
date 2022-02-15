@@ -1,6 +1,6 @@
 함께하는 즐거움, 그리고 성취감을 가장 큰 가치로 여깁니다 😄
 
-직접 개발하여 운영하는 [블로그](http://crispyblog.kr/) 입니다
+직접 개발한 [블로그](http://crispyblog.kr/)를 운영중 입니다
 
 [backend]
 - JAVA, GO
