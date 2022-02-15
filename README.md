@@ -18,7 +18,7 @@
 
 - 🌱 I’m interested in ...
   - K8s
-  - ElasticSearch, Alogoria
+  - ElasticSearch, Algoria
   - Kafka
   - gRPC
   - electron
