@@ -6,7 +6,7 @@
 - JAVA, GO
   - Srping, SpringBoot, Gin
   - JPA, Mybatis
-- Oracle, Mysql, MariaDB, MSSQL, Tibero, MongoDB, Redis, Kafka
+- Oracle, Mysql, MariaDB, MSSQL, Tibero, MongoDB, Redis, Kafka, ELK Stack
 - REST API, GraphQL
 - Git, SVN, Jenkins, Docker, NginX
 
@@ -18,7 +18,7 @@
 
 - 🌱 I’m interested in ...
   - K8s
-  - ElasticSearch, Algoria
+  - Algoria
   - gRPC
   - electron
 
