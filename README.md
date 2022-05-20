@@ -6,9 +6,12 @@
 - JAVA, GO
   - Srping, SpringBoot, Gin
   - JPA, Mybatis
-- Oracle, Mysql, MariaDB, MSSQL, Tibero, MongoDB, Redis, Kafka, ELK Stack
+- Oracle, Mysql, MariaDB, MSSQL, Tibero
+- MongoDB, Redis, Kafka, ELK Stack
 - REST API, GraphQL
-- Git, SVN, Jenkins, Docker, NginX
+- Jenkins, Docker, NginX
+- Git, SVN
+- Jira, Confluence
 
 [frontend]
 - HTML, JavaScript, TypeScript, CSS
@@ -17,10 +20,10 @@
 <br>
 
 - 🌱 I’m interested in ...
+  - Node.js, electron
+  - gRPC
   - K8s
   - Algoria
-  - gRPC
-  - electron
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=basepage90)](https://github.com/basepage90)
