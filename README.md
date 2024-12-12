@@ -3,7 +3,7 @@
 직접 개발한 [블로그](http://crispyblog.kr/)를 운영중 입니다
 
 [backend]
-- JAVA, GO
+- Java, Kotlin, Go Lang
   - Srping, SpringBoot, Gin
   - JPA, Mybatis
 - Oracle, Mysql, MariaDB, MSSQL, Tibero
@@ -20,9 +20,10 @@
 <br>
 
 - 🌱 I’m interested in ...
-  - Node.js, electron
   - gRPC
+  - AI
   - K8s
+  - Node.js, electron
   - Algoria
 
 
